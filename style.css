@@ -4,3 +4,12 @@
   margin-right: 50px;
   padding-right: 500px;
 }
+body{
+  background-color: black;
+  color: white;
+}
+img{
+  display:inline-block;
+  border: 1px;
+  border-style: solid;
+}
